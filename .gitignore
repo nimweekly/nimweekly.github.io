@@ -4,4 +4,4 @@ _site
 .local
 .local/*
 .bundle
-vendor
+/vendor
