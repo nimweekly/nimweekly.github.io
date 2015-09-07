@@ -1,0 +1,13 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Sample Posts
+  url: /posts/
+
+- title: Nim
+  url: http://nim-lang.org/
+
+- title: Nim Forum
+  url: http://forum.nim-lang.org/
